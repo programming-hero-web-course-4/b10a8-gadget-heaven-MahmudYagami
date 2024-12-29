@@ -1,0 +1,116 @@
+[
+  {
+    "product_id": 1,
+    "product_title": "Infinix HOT 50i",
+    "product_image": "https://i.ibb.co.com/1z8WsKz/infinix-hot-50-4g-titanium-grey.webp",
+    "category": "Smartphones",
+    "price": 699.99,
+    "description": "Latest model with high performance.",
+    "Specification": ["6.5-inch display", "128GB storage", "12MP camera"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 2,
+    "product_title": "Tecno Spark 30C",
+    "product_image": "https://i.ibb.co.com/j8ZBgKt/tecno-spark-30-stellar-shadow.webp",
+    "category": "Smartphones",
+    "price": 599.99,
+    "description": "Compact design with advanced features.",
+    "Specification": ["5.8-inch display", "64GB storage", "10MP camera"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 3,
+    "product_title": "Galaxy S24 Ultra",
+    "product_image": "https://i.ibb.co.com/mGz3rr0/Titanium-Gray-S24-Ultra-1.webp",
+    "category": "Smartphones",
+    "price": 799.99,
+    "description": "High-end smartphone with top specifications.",
+    "Specification": ["6.7-inch display", "256GB storage", "108MP camera"],
+    "availability": false,
+    "rating": 4.8
+    
+  },
+  {
+    "product_id": 4,
+    "product_title": "iPhone 16 Pro Max",
+    "product_image": "https://i.ibb.co.com/g41BkHp/Apple-i-Phone-16-Pro-Max-Desert-Titanium.webp",
+    "category": "Smartphones",
+    "price": 499.99,
+    "description": "Budget-friendly smartphone with great features.",
+    "Specification": ["6.0-inch display", "32GB storage", "8MP camera"],
+    "availability": true,
+    "rating": 4.3
+    
+  },
+  {
+    "product_id": 5,
+    "product_title": "Tecno Spark 30 Pro",
+    "product_image": "https://i.ibb.co.com/j8ZBgKt/tecno-spark-30-stellar-shadow.webp",
+    "category": "Smartphones",
+    "price": 799.99,
+    "description": "Stylish smartphone with powerful performance.",
+    "Specification": ["6.4-inch display", "128GB storage", "48MP camera"],
+    "availability": true,
+    "rating": 4.6
+    
+  },
+  {
+    "product_id": 6,
+    "product_title": "vivo V40",
+    "product_image": "https://i.ibb.co.com/2StNt5h/Vivo-V40-Nebula-Purple.webp",
+    "category": "Smartphones",
+    "price": 899.99,
+    "description": "Ultimate smartphone experience.",
+    "Specification": ["6.9-inch display", "512GB storage", "64MP camera"],
+    "availability": false,
+    "rating": 4.9
+    
+  },
+  {
+    "product_id": 7,
+    "product_title": "Apple MacBook Air",
+    "product_image": "https://i.ibb.co.com/yy7Yf0Y/macbook-air-13-inch-m3-midnight-01-500x500.webp",
+    "category": "Laptops",
+    "price": 1299.99,
+    "description": "Powerful laptop for gaming and productivity.",
+    "Specification": ["15.6-inch display", "16GB RAM", "512GB SSD"],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": 8,
+    "product_title": "Asus P1511CMA",
+    "product_image": "https://i.ibb.co.com/m6GmDPw/asus.webp",
+    "category": "Laptops",
+    "price": 999.99,
+    "description": "Versatile laptop for everyday use.",
+    "Specification": ["14-inch display", "8GB RAM", "256GB SSD"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": 9,
+    "product_title": "Samsung Galaxy Tab A9",
+    "product_image": "https://i.ibb.co.com/xGnRpCq/galaxy-tab-a9-graphite-500x500.webp",
+    "category": "Tablets",
+    "price": 599.99,
+    "description": "High-performance tablet for work and play.",
+    "Specification": ["10.5-inch display", "128GB storage", "12MP camera"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": 10,
+    "product_title": "Samsung Galaxy Tab A8 ",
+    "product_image": "https://i.ibb.co.com/ZW0K18H/galaxy-tab-a8-10-01-500x500.webp",
+    "category": "Tablets",
+    "price": 399.99,
+    "description": "Budget tablet with essential features.",
+    "Specification": ["10-inch display", "64GB storage", "8MP camera"],
+    "availability": true,
+    "rating": 4.2
+  }
+]
